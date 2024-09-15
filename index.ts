@@ -1,0 +1,1 @@
+let xyz : number = 34;
