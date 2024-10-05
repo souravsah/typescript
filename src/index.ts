@@ -1,5 +1,11 @@
-let age : number = 20;
+let sales : any =123_234_7383;
+function render(render: any){
+    console.log(render)
+}
 
-if(age<10){
-    age+=10
+let numbers: number[]=[1,2,3,4];
+let user :[number,string]=[1,"mash"]
+
+enum Size{
+    Small = 1,Medium,Large
 }
